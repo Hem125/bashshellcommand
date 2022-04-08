@@ -17,3 +17,9 @@
 - #### remove folder1 from list using rmdir command
 ![image](https://user-images.githubusercontent.com/103022040/162369755-c8bf6f0b-b31d-4472-a898-41ad7ab06004.png)
 ## *Create, view, and edit text files from command output or in an editor*
+- #### create file using cat command, touch command, redirecrt command,nano command
+![image](https://user-images.githubusercontent.com/103022040/162371244-863b3fa1-231f-4432-85aa-913b6601890a.png)
+- #### edit file using nano command
+![image](https://user-images.githubusercontent.com/103022040/162371741-18ea444a-6d9b-423c-a849-f8cb0bd05dd0.png)
+- #### edit using vi command
+![image](https://user-images.githubusercontent.com/103022040/162373336-e0a9f750-ebd0-4f5a-96e4-56af4594c423.png)
