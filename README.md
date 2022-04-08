@@ -17,9 +17,27 @@
 - #### remove folder1 from list using rmdir command
 ![image](https://user-images.githubusercontent.com/103022040/162369755-c8bf6f0b-b31d-4472-a898-41ad7ab06004.png)
 ## *Create, view, and edit text files from command output or in an editor*
-- #### create file using cat command, touch command, redirecrt command,nano command
+- #### create file using cat command and touch command, redirecrt command,nano command
 ![image](https://user-images.githubusercontent.com/103022040/162371244-863b3fa1-231f-4432-85aa-913b6601890a.png)
 - #### edit file using nano command
 ![image](https://user-images.githubusercontent.com/103022040/162371741-18ea444a-6d9b-423c-a849-f8cb0bd05dd0.png)
 - #### edit using vi command
 ![image](https://user-images.githubusercontent.com/103022040/162373336-e0a9f750-ebd0-4f5a-96e4-56af4594c423.png)
+- #### view content of file using cat command 
+![image](https://user-images.githubusercontent.com/103022040/162376405-f38f2688-cbb5-4235-b51c-b08b970c68b6.png)
+## *Manage local Linux users and groups*
+- #### list out all user in linux
+![image](https://user-images.githubusercontent.com/103022040/162375905-88f9e70e-4f01-419c-b922-d0039618c198.png)
+- #### id command to get id of username
+![image](https://user-images.githubusercontent.com/103022040/162376772-5caad2b3-a000-4c5d-a9a9-a28fbd4c3092.png)
+- #### useradd command to create a user 
+![image](https://user-images.githubusercontent.com/103022040/162378221-2c37e360-2477-4c81-ab5b-8f55d62ff33f.png)
+- #### Using passwd command to assign a password to a user
+![image](https://user-images.githubusercontent.com/103022040/162378585-76fbd997-1516-4fd7-ac91-cd73cb9d26ea.png)
+- #### This commands prints the data of the configuration file. This file contains information about the user in the format.  
+ username : x : user id : user group id : : /home/username : /bin/bash 
+![image](https://user-images.githubusercontent.com/103022040/162379726-671080fa-ceb5-46ef-8195-b7d87afbd1ca.png)
+- #### command to change the user id of user
+![image](https://user-images.githubusercontent.com/103022040/162380278-8d309534-23ff-4266-91ed-3b9057001849.png)
+- #### delete a user name 
+![image](https://user-images.githubusercontent.com/103022040/162381045-3b14b233-3434-4361-8328-df5b4e36967c.png)
