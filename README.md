@@ -50,5 +50,30 @@
 ![image](https://user-images.githubusercontent.com/103022040/162384140-7026e2c7-f6a9-459f-89c2-62e07c3af6d4.png)
 - #### giving all permission to user, read write permission to group and read permission to other in file4.txt
 ![image](https://user-images.githubusercontent.com/103022040/162385009-298514e2-ef38-4101-8055-8824230aef8b.png)
- ## *Obtain information about the system, and control processes running on it.*
- 
+ ## *Obtain information about the system*
+- #### display information of active process by ps command
+![image](https://user-images.githubusercontent.com/103022040/162397664-7bfb49f1-bf4c-4448-b955-8136e9fa8fd2.png)
+- #### offer dynamic view of running system using top command acts as a system monitoring tool
+![image](https://user-images.githubusercontent.com/103022040/162398266-10dcb6b3-fca2-44ed-8221-e66c60493432.png)
+ ## *control processes running on it.*
+ - #### killing process using kill command
+ ![image](https://user-images.githubusercontent.com/103022040/162401888-c11f9294-e62e-4cde-9a92-4cb01150bad3.png)
+ - #### sending signal to process using kill -l
+ ![image](https://user-images.githubusercontent.com/103022040/162402422-8bd1f31f-57c4-4653-8079-16ffac081470.png)
+- #### use pkill or killall to kill an application
+![image](https://user-images.githubusercontent.com/103022040/162403367-99a7c96b-890a-4141-b1bb-7bb6f599d952.png)
+ ## *Configure and secure OpenSSH service*
+- #### using scp command to copy a file from one operating system to another
+![image](https://user-images.githubusercontent.com/103022040/162409333-b35e5526-313c-4ce8-9577-d3a07c8f132e.png)
+- #### file transferred using ip address of another operating system 
+![image](https://user-images.githubusercontent.com/103022040/162409664-615427e4-7671-4a6f-9441-1de707a76764.png)
+## *Installation of Apache2*
+- #### We can install using following command
+![image](https://user-images.githubusercontent.com/103022040/162413196-69bc6859-a40a-4f71-9760-eaf77b93c226.png)
+- #### update apache2 using following command
+![image](https://user-images.githubusercontent.com/103022040/162413426-482d1cf7-4ee4-437d-b2f8-b1aec6276e72.png)
+- #### we can test it out by typing in our IP address for the web server.
+![image](https://user-images.githubusercontent.com/103022040/162413985-64cd01f5-82a0-4144-8335-4e5ec8a2be42.png)
+## *Installation of nginx*
+- #### we can install using following command 
+![image](https://user-images.githubusercontent.com/103022040/162415036-8dc944aa-ea39-4ff2-b913-144568b5fabe.png)
