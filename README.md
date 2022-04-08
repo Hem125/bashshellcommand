@@ -41,3 +41,14 @@
 ![image](https://user-images.githubusercontent.com/103022040/162380278-8d309534-23ff-4266-91ed-3b9057001849.png)
 - #### delete a user name 
 ![image](https://user-images.githubusercontent.com/103022040/162381045-3b14b233-3434-4361-8328-df5b4e36967c.png)
+## *Set Linux file system permissions on files*
+- #### we can see the permission of file  using long list command
+![image](https://user-images.githubusercontent.com/103022040/162383493-dd8a1be8-bb7f-4211-8239-96fdded704a9.png)
+- #### give all permission to group user and other in file3.txt 
+![image](https://user-images.githubusercontent.com/103022040/162383077-46bd4164-3a0d-45a5-8690-bd1aaa441511.png)
+- #### removing all permission from group user and other in file4.txt
+![image](https://user-images.githubusercontent.com/103022040/162384140-7026e2c7-f6a9-459f-89c2-62e07c3af6d4.png)
+- #### giving all permission to user, read write permission to group and read permission to other in file4.txt
+![image](https://user-images.githubusercontent.com/103022040/162385009-298514e2-ef38-4101-8055-8824230aef8b.png)
+ ## *Obtain information about the system, and control processes running on it.*
+ 
