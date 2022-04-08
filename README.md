@@ -12,3 +12,8 @@
 ![image](https://user-images.githubusercontent.com/103022040/162368450-ec7c84c5-ca69-4517-ada0-4f097be1b2af.png)
 - #### we can move using mv command 
 ![image](https://user-images.githubusercontent.com/103022040/162368680-9ce276b8-56a0-4861-ad04-e92eeb951b45.png)
+- #### remove file1 from folder2 using rm command
+![image](https://user-images.githubusercontent.com/103022040/162369358-b3e2cb93-5001-4dfe-8d87-09680bc65040.png)
+- #### remove folder1 from list using rmdir command
+![image](https://user-images.githubusercontent.com/103022040/162369755-c8bf6f0b-b31d-4472-a898-41ad7ab06004.png)
+## *Create, view, and edit text files from command output or in an editor*
